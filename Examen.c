@@ -17,9 +17,9 @@ int main()
     printf("\n Ingrese el numero %d:", cont1 );
     scanf ("%d",&num);
 
-
     }while(cont < cantidad);
     
+    printf("El numero mas grande es %d:", num );
     
 
     return 0;
